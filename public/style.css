@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+form{
+    margin-top: 5rem;
+    margin-left: 5rem;
+
+}
+
+label, input{
+    display: block;
+    margin-bottom: 10px;
+}
